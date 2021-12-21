@@ -9,7 +9,7 @@ A simple powershell utility to organize your junk files (pack) or the opposite (
 
 ---
 
-Since these are native PowerShell scripts for working with the Windows FileSystem, they avoid the overhead of other scripting implementations like Python and are thus inherently the fastest for this job.
+Since these are native PowerShell scripts for working with the Windows FileSystem, they avoid the overhead of other scripting implementations like Python and are thus inherently the fastest for this job, especially when the number of files to work with is quite large (say >5000)
 
 ---
 
